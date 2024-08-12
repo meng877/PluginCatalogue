@@ -1,0 +1,161 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"0a29f3eccfbc40a1a298d085e1d67a2fe4f6b02019f9665b2fd528d1e881fccf\"",
+      "data": "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",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAOyo8WUC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "46042978": {
+      "meta": {
+        "schema_version": 4,
+        "id": "auto_plugin_reloader",
+        "name": "Auto Plugin Reloader",
+        "version": "1.1.3",
+        "link": "https://github.com/TISUnion/AutoPluginReloader",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0-beta"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Automatically reload plugins when file changes",
+          "zh_cn": "在文件变更时自动重载插件"
+        }
+      },
+      "size": 18007,
+      "hash_md5": "78e792f8f296deec957b074142ca2653",
+      "hash_sha256": "e6676b26d45268559f88a9b0736e5b39088b2ed7ed9adcdedb225304facb0962"
+    },
+    "45934406": {
+      "meta": {
+        "schema_version": 4,
+        "id": "auto_plugin_reloader",
+        "name": "Auto Plugin Reloader",
+        "version": "1.1.2",
+        "link": "https://github.com/TISUnion/AutoPluginReloader",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0-beta"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Automatically reload plugins when file changes",
+          "zh_cn": "在文件变更时自动重载插件"
+        }
+      },
+      "size": 18012,
+      "hash_md5": "b41ee6db97810cf31d5cfde587a5f1fe",
+      "hash_sha256": "36ce99aeb19cd37f9f1e6d77475d8b828e952267b84b6b1dc6b5f1ff23ef64b8"
+    },
+    "44584064": {
+      "meta": {
+        "schema_version": 4,
+        "id": "auto_plugin_reloader",
+        "name": "Auto Plugin Reloader",
+        "version": "1.1.1",
+        "link": "https://github.com/TISUnion/AutoPluginReloader",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0-beta"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Automatically reload plugins when file changes",
+          "zh_cn": "在文件变更时自动重载插件"
+        }
+      },
+      "size": 17889,
+      "hash_md5": "0b061c686ca4ab61006ae4e2b1cdc9c4",
+      "hash_sha256": "3e32f77bd66ee792bae0a948fcaaaa41b449486b283731dad773008b96b2a73b"
+    },
+    "43347870": {
+      "meta": {
+        "schema_version": 4,
+        "id": "auto_plugin_reloader",
+        "name": "Auto Plugin Reloader",
+        "version": "1.1.0",
+        "link": "https://github.com/TISUnion/AutoPluginReloader",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0-beta"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Automatically reload plugins when file changes",
+          "zh_cn": "在文件变更时自动重载插件"
+        }
+      },
+      "size": 17854,
+      "hash_md5": "350422b35f605ed62cd123043d26f180",
+      "hash_sha256": "6fe9557e722324dd6717d521b66959d94888a381ed144e21cd0f240c6009af90"
+    },
+    "42809868": {
+      "meta": {
+        "schema_version": 4,
+        "id": "auto_plugin_reloader",
+        "name": "Auto Plugin Reloader",
+        "version": "1.0.1",
+        "link": "https://github.com/TISUnion/AutoPluginReloader",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.1"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Automatically reload plugins when file changes",
+          "zh_cn": "在文件变更时自动重载插件"
+        }
+      },
+      "size": 17816,
+      "hash_md5": "56ff1dd832a9c3455c1eb1e1d816f67b",
+      "hash_sha256": "569f1005bd5b3132d295f0936d551df3f44944dd9be02fdacbf937a667fcc2e4"
+    },
+    "176768356": {
+      "meta": {
+        "schema_version": 4,
+        "id": "auto_plugin_reloader",
+        "name": "Auto Plugin Reloader",
+        "version": "2.0.0",
+        "link": "https://github.com/TISUnion/AutoPluginReloader",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.13.0"
+        },
+        "requirements": [
+          "mcdreforged"
+        ],
+        "description": {
+          "en_us": "Automatically reload plugins when file changes",
+          "zh_cn": "在文件变更时自动重载插件"
+        }
+      },
+      "size": 19011,
+      "hash_md5": "50d69163b21fab29acd028f671335000",
+      "hash_sha256": "6465923447f80357d1c572bad2012a732457f7f732abc96c82fa088e0349aa3b"
+    }
+  },
+  "repos_info": {
+    "etag": "\"012d22c5080a31b6d809cb9a8abc638f0082bc93b6f425c98e96bdbb97b8e967\"",
+    "data": "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"
+  }
+}

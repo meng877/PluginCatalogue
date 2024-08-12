@@ -1,0 +1,189 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"e16129cfc6ba12b52ae83aecdd79fde893be2400251c0b3b78acd85defc2540b\"",
+      "data": "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",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAO2o8WUC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "72473160": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mirror_sync_reforged",
+        "name": "Mirror Sync Reforged",
+        "version": "1.3.0",
+        "link": "https://github.com/Ivan-1F/MirrorSyncReforged",
+        "authors": [
+          "Ivan1F"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A plugin to sync survival server world to the mirror server",
+          "zh_cn": "一个用于同步生存服存档至镜像服的插件"
+        }
+      },
+      "size": 5225,
+      "hash_md5": "60f9c9346e92a384473d261d24e29c0c",
+      "hash_sha256": "71dbd3ff58f97368fa5cc6e18df900f7d9148635a342fce73af350dcf4e860ba"
+    },
+    "69673213": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mirror_sync_reforged",
+        "name": "Mirror Sync Reforged",
+        "version": "1.2.2",
+        "link": "https://github.com/Ivan-1F/MirrorSyncReforged",
+        "authors": [
+          "Ivan1F"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A plugin to sync survival server world to the mirror server",
+          "zh_cn": "一个用于同步生存服存档至镜像服的插件"
+        }
+      },
+      "size": 5134,
+      "hash_md5": "3d8d212d5b7dd92cbb1fa302908c52ea",
+      "hash_sha256": "ffab83ceaf7a886d0484af46398c1fd7c4dcb0462682f0cf4109880d69ba71e7"
+    },
+    "61816680": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mirror_sync_reforged",
+        "name": "Mirror Sync Reforged",
+        "version": "1.2.1",
+        "link": "https://github.com/Ivan-1F/MirrorSyncReforged",
+        "authors": [
+          "Ivan1F"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [
+          "mcdreforged~=2.3.2"
+        ],
+        "description": {
+          "en_us": "A plugin to sync survival server world to the mirror server",
+          "zh_cn": "一个用于同步生存服存档至镜像服的插件"
+        }
+      },
+      "size": 5151,
+      "hash_md5": "b9ec93ca8045a6a474668105ecf8d531",
+      "hash_sha256": "d3d21f1ed8924fec8419875fa739fc93f89c7d878e440e3ba19389915042f1f6"
+    },
+    "61805915": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mirror_sync_reforged",
+        "name": "Mirror Sync Reforged",
+        "version": "1.2.0",
+        "link": "https://github.com/Ivan-1F/MirrorSyncReforged",
+        "authors": [
+          "Ivan1F"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [
+          "mcdreforged~=2.3.2"
+        ],
+        "description": {
+          "en_us": "A plugin to sync survival server world to the mirror server",
+          "zh_cn": "一个用于同步生存服存档至镜像服的插件"
+        }
+      },
+      "size": 5110,
+      "hash_md5": "45c172202fa62cd65f2f2cb6e57b4f94",
+      "hash_sha256": "54cc3a382cf542a0e22b6cf61d86b6c547806e83bc63ce6ff80fc3d63666f32a"
+    },
+    "61419113": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mirror_sync_reforged",
+        "name": "Mirror Sync Reforged",
+        "version": "1.1.1",
+        "link": "https://github.com/Ivan-1F/MirrorSyncReforged",
+        "authors": [
+          "Ivan1F"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [
+          "mcdreforged~=2.3.2"
+        ],
+        "description": {
+          "en_us": "A plugin to sync survival server world to the mirror server",
+          "zh_cn": "一个用于同步生存服存档至镜像服的插件"
+        }
+      },
+      "size": 5068,
+      "hash_md5": "eb1be2506890594120b0e4cf07a94334",
+      "hash_sha256": "e9edb5459d303d1eaefa4b9b8c65705ce0da1b64d58bfaae9701145b9adfffb1"
+    },
+    "61412366": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mirror_sync_reforged",
+        "name": "Mirror Sync Reforged",
+        "version": "1.1.0",
+        "link": "https://github.com/Ivan-1F/MirrorSyncReforged",
+        "authors": [
+          "Ivan1F"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [
+          "mcdreforged~=2.3.2"
+        ],
+        "description": {
+          "en_us": "A plugin to sync survival server world to the mirror server",
+          "zh_cn": "一个用于同步生存服存档至镜像服的插件"
+        }
+      },
+      "size": 5070,
+      "hash_md5": "c322e2139183178d6e9aac24eae58ff1",
+      "hash_sha256": "54c3fec0659f99dad10dbd829f3691095e7b937c3ff5f6ab6d66f5d6dba6a77e"
+    },
+    "59318660": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mirror_sync_reforged",
+        "name": "Mirror Sync Reforged",
+        "version": "1.0.0",
+        "link": "https://github.com/Ivan-1F/MirrorSyncReforged",
+        "authors": [
+          "Ivan1F"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "mcdreforged~=2.3.2"
+        ],
+        "description": {
+          "en_us": "Sync survival server world to the mirror server"
+        }
+      },
+      "size": 4410,
+      "hash_md5": "0433350fd995985b31f521d256c81d6c",
+      "hash_sha256": "fa5befeea9d7191696fbb76e13db1d995f8100102d23652a2d2c15c2d8bfab4b"
+    }
+  },
+  "repos_info": {
+    "etag": "\"d708f4b7e162c89c433f6630a6567c0f2e6d24d3ee542fec959cdcce68fcf5ea\"",
+    "data": "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"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"8a2dfff7f9a1aef02d727304bd17bf9fb7c6d4e782e86b143271b12cf0b9059d\"",
+      "data": "H4sIAJwJt2YC/+2ZfW+bOhTGvwrNtP+WYt5fpGlam+6q0l2rXaXT1G6iDrjEtwQjMMlton732Qby1pAuIZF2J1RVFeac55iD/Zifejfr5GnUcaXOkNIkc2UZJvg0xHSYD059MpJTlJBMvhzDuKt8ks9hmiDax/4juxEhmKFMtgxDNxVT77yTOjDLEM28Q0nKhR5XzpOIwGBduRjNGqnPPsRwhN5FcICiZ15qSEfReqGlAtukKQzlsXLKfrgQDphEVY13J6dDkrKxWSciIY55gVJtHm5YlmM4hsWuYxIgTwx2Pve+mF+/XUX+vzfa1fRRue7faKLfY0hh+qLfYrTqSp6h1CcxRTEV88/lqsaH8Xvx1sK01CmKiXZvfYNcct7jX28Zj3wgUUQmLN3boYQ8z1pI4DjcQ4JlzWRCh4g1jd0W7zvEGd1tOiJjJv6wngmRjPUvRcFOMmUOm9AkZnOZibVbqOWDzE9xQjGJd5vaSiaXImkIYzyFu0uxTKEgdtROmSKDp6IxW3W75RYpMzlJ8Rj6T8/FDHyEx6y7e+it5XI5+pQgnn/DAkW3MUUeDEZiRz7AKEPPq9vvnwvvcdK7/ss7d4ivX4R/60DowNDj3sFDFruevdQQUY/NZIQpzob87ghmtKhVxS/cQ1qkBil8oNUc2HWSotJalgb9FEHKngfyyI4KVLUL7K5q9RXTBZqrq7dcKskHESteF6e7GrhdODaLuGt+EhRasmUCTbMcfWGB5cBaUz+uNBWf2+ebG9QtGnQ68gPRQuHUc6MSJwBac9Vi2l3oi1V/NyD0x3w2umI7tmqr6w772fwycsBV70K/7odP173L9/s6LI5lxdBMu6G/rj7EW+OMPcZbo/cLfguTZD19d++tKd/Ei7dLNvPmOu2GXl0ne0jvrq3R3MvrpHf39jqlfby+TutQ3l8/19qz4IzQ+qOg3NxeFcz2V4R98Rpk4lNEuxllrjwqFxcVQaUzBYXslI9phs5tJ2BrRnzN+iSPuTvrqv6aseuuYd0WhhdsjbJF1CAlE9YKb15qv+/ZKr38qJVrTPn5R3HuDWAU7fvxX6YvfT5PcdJEsExfEhyQ4IkrvXkjfcL/oex7+j3mv11xGUjMeqQAJSgOUOxjlEkklu75A6IHtl9QcN9hi6H5MWlqtuawQ+iAwFRJHgeY1tSPAkxgfj5X1VpgaoGpBaY/AZh60+H460ZgAvsDE2gETHoXWH3guKrlAmcLMC3FGcaxgMlUbMVUFWNhgeXANmDqpVP12zZgAi0wtcDUAlMLTP9rYDKcTcCkmOZrxm67il0LTC+jjgJMQK4x5YMDEzg0MIE1YLpCkzkvSV3p/uRkiKLkXuKnNowDKcuThKT0QISkmMByVPuQhFRKHomQVtWPQEhgmZDKai0htYTUEtIfQUjpR0/fQEhgf0ICDQlJ6ypKX9FdzXCBvoWQqjgDVEfpEQjJcFQGIObiX0rVwFZCGtpnpJ6QwAZCivMoqmWk1ldbX2199Xf01YPhhq6am3DD1l4xSWZ+wKiljeUo61i0AV7QBjgSbYBD0wZYpY1LKk1I+pidsIn/BBqYfFWgJgAA",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAOyo8WUC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "76033794": {
+      "meta": {
+        "schema_version": 4,
+        "id": "carpet_tick",
+        "name": "Carpet Tick",
+        "version": "1.1.1",
+        "link": "https://github.com/Ivan-1F/CarpetTick",
+        "authors": [
+          "Ivan1F"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0-beta"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Get server status using carpet /tick command",
+          "zh_cn": "使用 Carpet Mod 的 /tick 指令获取服务器信息"
+        }
+      },
+      "size": 3542,
+      "hash_md5": "79985ae275f1b5e436afeccdddf4fffb",
+      "hash_sha256": "bc145ddd0462c7ef1c8a95be293f27097e36a606ec9ca01b8afd326660ac7742"
+    },
+    "61816215": {
+      "meta": {
+        "schema_version": 4,
+        "id": "carpet_tick",
+        "name": "Carpet Tick",
+        "version": "1.1.0",
+        "link": "https://github.com/Ivan-1F/CarpetTick",
+        "authors": [
+          "Ivan1F"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0-beta"
+        },
+        "requirements": [
+          "mcdreforged~=2.3.2"
+        ],
+        "description": {
+          "en_us": "Get server status using carpet /tick command",
+          "zh_cn": "使用 Carpet Mod 的 /tick 指令获取服务器信息"
+        }
+      },
+      "size": 3559,
+      "hash_md5": "de4e4df8488c21d4120b3c08e0f6b908",
+      "hash_sha256": "c7f15cb68ac5d6cfd03e784ddc38e4f75aca53c46efa5bf9ff43b08a4f7af947"
+    },
+    "59228264": {
+      "meta": {
+        "schema_version": 4,
+        "id": "carpet_tick",
+        "name": "Carpet Tick",
+        "version": "1.0.0",
+        "link": "https://github.com/Ivan-1F/CarpetTick",
+        "authors": [
+          "Ivan1F"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0-beta"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Get server status using carpet /tick command",
+          "zh_cn": "使用 Carpet Mod 的 /tick 指令获取服务器信息"
+        }
+      },
+      "size": 3426,
+      "hash_md5": "ad3da582ab1fcd0c5127aa8c7e57e89a",
+      "hash_sha256": "6a87fd6d71f0763d13e2e6bacc8b030dadb44899db76ea5a24743803adfec455"
+    }
+  },
+  "repos_info": {
+    "etag": "\"663c09b5e6ca70a5f56b79a60d08474f26c23fa67d3222c0dcf0c8632fd93f48\"",
+    "data": "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"
+  }
+}

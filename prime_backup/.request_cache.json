@@ -1,0 +1,612 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"e29eed54d61dda5c50fa7c6cfc6deebaed3fc0cd75958ac97dc31f7afb2b8e78\"",
+      "data": "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",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAO2o8WUC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "155942581": {
+      "meta": {
+        "schema_version": 4,
+        "id": "prime_backup",
+        "name": "Prime Backup",
+        "version": "1.7.3",
+        "link": "https://github.com/TISUnion/PrimeBackup",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.12.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.12.0",
+          "psutil",
+          "pytz",
+          "xxhash>=3",
+          "SQLAlchemy>=2",
+          "APScheduler>=3.8,<4",
+          "zstandard"
+        ],
+        "description": {
+          "en_us": "A powerful backup plugin for MCDR, an advanced backup solution for your Minecraft world",
+          "zh_cn": "一个强大的MCDR备份插件，一套先进的Minecraft存档备份解决方案"
+        }
+      },
+      "size": 149780,
+      "hash_md5": "6e6d0945d25f5bffb4b692f57a35b3a8",
+      "hash_sha256": "6361b98a1b85846c00ce996fc2ae3835d1a7793a1beacf6bda35be96fc65591d"
+    },
+    "153409653": {
+      "meta": {
+        "schema_version": 4,
+        "id": "prime_backup",
+        "name": "Prime Backup",
+        "version": "1.7.2",
+        "link": "https://github.com/TISUnion/PrimeBackup",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.12.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.12.0",
+          "psutil",
+          "pytz",
+          "xxhash>=3",
+          "SQLAlchemy>=2",
+          "APScheduler>=3.8,<4",
+          "zstandard"
+        ],
+        "description": {
+          "en_us": "A powerful backup plugin for MCDR, an advanced backup solution for your Minecraft world",
+          "zh_cn": "一个强大的MCDR备份插件，一套先进的Minecraft存档备份解决方案"
+        }
+      },
+      "size": 149678,
+      "hash_md5": "22c9ddd3a21c32b74a3fe08947e731d7",
+      "hash_sha256": "a47ef4079587ee8af109818a707b3e936f0a2e15d83af338d0679b55dca38bc9"
+    },
+    "153366554": {
+      "meta": {
+        "schema_version": 4,
+        "id": "prime_backup",
+        "name": "Prime Backup",
+        "version": "1.7.1",
+        "link": "https://github.com/TISUnion/PrimeBackup",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.12.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.12.0",
+          "psutil",
+          "pytz",
+          "xxhash>=3",
+          "SQLAlchemy>=2",
+          "APScheduler>=3.8,<4",
+          "zstandard"
+        ],
+        "description": {
+          "en_us": "A powerful backup plugin for MCDR, an advanced backup solution for your Minecraft world",
+          "zh_cn": "一个强大的MCDR备份插件，一套先进的Minecraft存档备份解决方案"
+        }
+      },
+      "size": 149697,
+      "hash_md5": "bf78415b740ddfd778de8db35be32176",
+      "hash_sha256": "0e36151ae51db58c7052d9df782d6162f50c9cce9036784f76d0b7a629d4d278"
+    },
+    "153361227": {
+      "meta": {
+        "schema_version": 4,
+        "id": "prime_backup",
+        "name": "Prime Backup",
+        "version": "1.7.0",
+        "link": "https://github.com/TISUnion/PrimeBackup",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.12.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.12.0",
+          "psutil",
+          "pytz",
+          "xxhash>=3",
+          "SQLAlchemy>=2",
+          "APScheduler>=3.8,<4",
+          "zstandard"
+        ],
+        "description": {
+          "en_us": "A powerful backup plugin for MCDR, an advanced backup solution for your Minecraft world",
+          "zh_cn": "一个强大的MCDR备份插件，一套先进的Minecraft存档备份解决方案"
+        }
+      },
+      "size": 149498,
+      "hash_md5": "c4a22aecf6c7832f6da30194ad6570a6",
+      "hash_sha256": "e38fc863e6bcdc9df203e443575d6696337c02866a3a21bdd588e266427c9c96"
+    },
+    "143380828": {
+      "meta": {
+        "schema_version": 4,
+        "id": "prime_backup",
+        "name": "Prime Backup",
+        "version": "1.6.3",
+        "link": "https://github.com/TISUnion/PrimeBackup",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.12.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.12.0",
+          "psutil",
+          "pytz",
+          "xxhash>=3",
+          "SQLAlchemy>=2",
+          "APScheduler>=3.8,<4",
+          "zstandard"
+        ],
+        "description": {
+          "en_us": "A powerful backup plugin for MCDR, an advanced backup solution for your Minecraft world",
+          "zh_cn": "一个强大的MCDR备份插件，一套先进的Minecraft存档备份解决方案"
+        }
+      },
+      "size": 144412,
+      "hash_md5": "86e294d9fa861be214eef1cee0d33ba2",
+      "hash_sha256": "48b1212cc80a8369b70b84fac03951188ab462b218ebd53981f43cd715021016"
+    },
+    "142500176": {
+      "meta": {
+        "schema_version": 4,
+        "id": "prime_backup",
+        "name": "Prime Backup",
+        "version": "1.6.2",
+        "link": "https://github.com/TISUnion/PrimeBackup",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.12.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.12.0",
+          "psutil",
+          "pytz",
+          "xxhash>=3",
+          "SQLAlchemy>=2",
+          "APScheduler>=3.8,<4",
+          "zstandard"
+        ],
+        "description": {
+          "en_us": "A powerful backup plugin for MCDR, an advanced backup solution for your Minecraft world",
+          "zh_cn": "一个强大的MCDR备份插件，一套先进的Minecraft存档备份解决方案"
+        }
+      },
+      "size": 144405,
+      "hash_md5": "afb9f834e42a0bbeefd3f163fa09904b",
+      "hash_sha256": "cea5e6e3c1c48923c13a17a1356a183c837153707fb2a69f3d45ed74ca82dede"
+    },
+    "142139217": {
+      "meta": {
+        "schema_version": 4,
+        "id": "prime_backup",
+        "name": "Prime Backup",
+        "version": "1.6.1",
+        "link": "https://github.com/TISUnion/PrimeBackup",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.12.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.12.0",
+          "psutil",
+          "pytz",
+          "xxhash>=3",
+          "SQLAlchemy>=2",
+          "APScheduler>=3.8,<4",
+          "zstandard"
+        ],
+        "description": {
+          "en_us": "A powerful backup plugin for MCDR, an advanced backup solution for your Minecraft world",
+          "zh_cn": "一个强大的MCDR备份插件，一套先进的Minecraft存档备份解决方案"
+        }
+      },
+      "size": 144065,
+      "hash_md5": "a82e7e82aae21f5795b25539cc94e041",
+      "hash_sha256": "0bb9f8b09a8a1f325167607f1c11191d51e051d5dc22531a090ec7ba61729fde"
+    },
+    "142018556": {
+      "meta": {
+        "schema_version": 4,
+        "id": "prime_backup",
+        "name": "Prime Backup",
+        "version": "1.6.0",
+        "link": "https://github.com/TISUnion/PrimeBackup",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.12.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.12.0",
+          "psutil",
+          "pytz",
+          "xxhash>=3",
+          "SQLAlchemy>=2",
+          "APScheduler>=3.8,<4",
+          "zstandard"
+        ],
+        "description": {
+          "en_us": "A powerful backup plugin for MCDR, an advanced backup solution for your Minecraft world",
+          "zh_cn": "一个强大的MCDR备份插件，一套先进的Minecraft存档备份解决方案"
+        }
+      },
+      "size": 144058,
+      "hash_md5": "d5ae071c63247fa159c0df228262dec6",
+      "hash_sha256": "7cc89a206fcca959d6f6b28ff34c2adc2bf19d78530e29dcfc3feb02285d0e5f"
+    },
+    "141311289": {
+      "meta": {
+        "schema_version": 4,
+        "id": "prime_backup",
+        "name": "Prime Backup",
+        "version": "1.5.0",
+        "link": "https://github.com/TISUnion/PrimeBackup",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.12.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.12.0",
+          "psutil",
+          "pytz",
+          "xxhash>=3",
+          "SQLAlchemy>=2",
+          "APScheduler>=3.8,<4",
+          "zstandard"
+        ],
+        "description": {
+          "en_us": "A powerful backup plugin for MCDR, an advanced backup solution for your Minecraft world",
+          "zh_cn": "一个强大的MCDR备份插件，一套先进的Minecraft存档备份解决方案"
+        }
+      },
+      "size": 141911,
+      "hash_md5": "c3c7260c88efdd70b0bc55dcec6024d7",
+      "hash_sha256": "eebd381f2e734c04f17b36a4bdf2b269097fc55f9211d610d3ddaa4d78613e71"
+    },
+    "141144350": {
+      "meta": {
+        "schema_version": 4,
+        "id": "prime_backup",
+        "name": "Prime Backup",
+        "version": "1.4.1",
+        "link": "https://github.com/TISUnion/PrimeBackup",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.12.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.12.0",
+          "psutil",
+          "pytz",
+          "xxhash>=3",
+          "SQLAlchemy>=2",
+          "APScheduler>=3",
+          "zstandard"
+        ],
+        "description": {
+          "en_us": "A powerful backup plugin for MCDR, an advanced backup solution for your Minecraft world",
+          "zh_cn": "一个强大的MCDR备份插件，一套先进的Minecraft存档备份解决方案"
+        }
+      },
+      "size": 138265,
+      "hash_md5": "4f563f49e52830f0ded636f1b229ec24",
+      "hash_sha256": "d0f34a0abfa16602acabce2bf50f45745619799e9a297697016aa111761137a8"
+    },
+    "140998000": {
+      "meta": {
+        "schema_version": 4,
+        "id": "prime_backup",
+        "name": "Prime Backup",
+        "version": "1.4.0",
+        "link": "https://github.com/TISUnion/PrimeBackup",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.12.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.12.0",
+          "psutil",
+          "pytz",
+          "xxhash>=3",
+          "SQLAlchemy>=2",
+          "APScheduler>=3",
+          "zstandard"
+        ],
+        "description": {
+          "en_us": "A powerful backup plugin for MCDR, an advanced backup solution for your Minecraft world",
+          "zh_cn": "一个强大的MCDR备份插件，一套先进的Minecraft存档备份解决方案"
+        }
+      },
+      "size": 138161,
+      "hash_md5": "a265e1ce81da9b7d2709ba3c4e0a5330",
+      "hash_sha256": "ccd11ad1c5f707657f647b1058b937bbc22f966304a7c9a3dd14af10e0627855"
+    },
+    "140490429": {
+      "meta": {
+        "schema_version": 4,
+        "id": "prime_backup",
+        "name": "Prime Backup",
+        "version": "1.3.0",
+        "link": "https://github.com/TISUnion/PrimeBackup",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.12.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.12.0",
+          "psutil",
+          "pytz",
+          "xxhash>=3",
+          "SQLAlchemy>=2",
+          "APScheduler>=3",
+          "zstandard"
+        ],
+        "description": {
+          "en_us": "A powerful backup plugin for MCDR, an advanced backup solution for your Minecraft world",
+          "zh_cn": "一个强大的MCDR备份插件，一套先进的Minecraft存档备份解决方案"
+        }
+      },
+      "size": 129542,
+      "hash_md5": "09bb0645a2423f02c0fc5588892ee051",
+      "hash_sha256": "852941e7be7e00b6bf2981ba09fb7057c3aec44723f402db702092708a815e66"
+    },
+    "140317917": {
+      "meta": {
+        "schema_version": 4,
+        "id": "prime_backup",
+        "name": "Prime Backup",
+        "version": "1.2.0",
+        "link": "https://github.com/TISUnion/PrimeBackup",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.12.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.12.0",
+          "psutil",
+          "pytz",
+          "xxhash>=3",
+          "SQLAlchemy>=2",
+          "APScheduler>=3",
+          "zstandard"
+        ],
+        "description": {
+          "en_us": "A powerful backup plugin for MCDR, an advanced backup solution for your Minecraft world",
+          "zh_cn": "一个强大的MCDR备份插件，一套先进的Minecraft存档备份解决方案"
+        }
+      },
+      "size": 127438,
+      "hash_md5": "84d612aae26e8f7ecf3ba9a3dbb67193",
+      "hash_sha256": "9d2f898be5e92e5fd4666908c864440c4bb10f0e0b07e3a6096d4b572f252ade"
+    },
+    "140119400": {
+      "meta": {
+        "schema_version": 4,
+        "id": "prime_backup",
+        "name": "Prime Backup",
+        "version": "1.1.0",
+        "link": "https://github.com/TISUnion/PrimeBackup",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.12.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.12.0",
+          "psutil",
+          "pytz",
+          "xxhash>=3",
+          "SQLAlchemy>=2",
+          "APScheduler>=3",
+          "zstandard"
+        ],
+        "description": {
+          "en_us": "A powerful backup plugin for MCDR, an advanced backup solution for your Minecraft world",
+          "zh_cn": "一个强大的MCDR备份插件，一套先进的Minecraft存档备份解决方案"
+        }
+      },
+      "size": 123578,
+      "hash_md5": "c4d9abcad647dd7b561d2be906120559",
+      "hash_sha256": "03c909ad46000dc76b194d9130af1453b190bf52de5835270efea1e5b6f00020"
+    },
+    "139948068": {
+      "meta": {
+        "schema_version": 4,
+        "id": "prime_backup",
+        "name": "Prime Backup",
+        "version": "1.0.1",
+        "link": "https://github.com/TISUnion/PrimeBackup",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.12.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.12.0",
+          "psutil",
+          "pytz",
+          "xxhash>=3",
+          "SQLAlchemy>=2",
+          "APScheduler>=3",
+          "zstandard"
+        ],
+        "description": {
+          "en_us": "A powerful backup plugin for MCDR, an advanced backup solution for your Minecraft world",
+          "zh_cn": "一个强大的MCDR备份插件，一套先进的Minecraft存档备份解决方案"
+        }
+      },
+      "size": 119725,
+      "hash_md5": "4d4a1da59f5c1fc007fdd54bf5be675f",
+      "hash_sha256": "dd166143c083f9a8e4b7228c37971f5a61384d75b12dfb0f5e8e382d8b90819a"
+    },
+    "139936836": {
+      "meta": {
+        "schema_version": 4,
+        "id": "prime_backup",
+        "name": "Prime Backup",
+        "version": "1.0.0",
+        "link": "https://github.com/TISUnion/PrimeBackup",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.12.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.12.0",
+          "psutil",
+          "pytz",
+          "xxhash>=3",
+          "SQLAlchemy>=2",
+          "APScheduler>=3",
+          "zstandard"
+        ],
+        "description": {
+          "en_us": "A powerful backup plugin for MCDR, an advanced backup solution for your Minecraft world",
+          "zh_cn": "一个强大的MCDR备份插件，一套先进的Minecraft存档备份解决方案"
+        }
+      },
+      "size": 119632,
+      "hash_md5": "eec1fa26c9eb72b1b891cc438fdf0d66",
+      "hash_sha256": "4aaf0e5e151957fe37aff0c79a20503989bb7a9a02e2b12e92bbc4068e5f8664"
+    },
+    "163229268": {
+      "meta": {
+        "schema_version": 4,
+        "id": "prime_backup",
+        "name": "Prime Backup",
+        "version": "1.7.4",
+        "link": "https://github.com/TISUnion/PrimeBackup",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.12.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.12.0",
+          "psutil",
+          "pytz",
+          "xxhash>=3",
+          "SQLAlchemy>=2",
+          "APScheduler>=3.8,<4",
+          "zstandard"
+        ],
+        "description": {
+          "en_us": "A powerful backup plugin for MCDR, an advanced backup solution for your Minecraft world",
+          "zh_cn": "一个强大的MCDR备份插件，一套先进的Minecraft存档备份解决方案"
+        }
+      },
+      "size": 150163,
+      "hash_md5": "2dbd05e85f48ff6b72c29ac793999551",
+      "hash_sha256": "083b16e6dd6a9f9782c0a23db4343a82cbb1e707546944e40f23457db4847c84"
+    },
+    "181062512": {
+      "meta": {
+        "schema_version": 4,
+        "id": "prime_backup",
+        "name": "Prime Backup",
+        "version": "1.8.1",
+        "link": "https://github.com/TISUnion/PrimeBackup",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.12.0"
+        },
+        "requirements": [
+          "APScheduler>=3.8,<4",
+          "SQLAlchemy>=2",
+          "mcdreforged>=2.12.0",
+          "pathspec",
+          "psutil",
+          "pytz",
+          "xxhash>=3",
+          "zstandard"
+        ],
+        "description": {
+          "en_us": "A powerful backup plugin for MCDR, an advanced backup solution for your Minecraft world",
+          "zh_cn": "一个强大的MCDR备份插件，一套先进的Minecraft存档备份解决方案"
+        }
+      },
+      "size": 151230,
+      "hash_md5": "97f39a7801f9f7aa7f736fa7598b5740",
+      "hash_sha256": "50d13f25a248c3d8d0d49750d3593bde0ff5ff355b90c5c9a1545d24c8482140"
+    },
+    "181062829": {
+      "meta": {
+        "schema_version": 4,
+        "id": "prime_backup",
+        "name": "Prime Backup",
+        "version": "1.8.0",
+        "link": "https://github.com/TISUnion/PrimeBackup",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.12.0"
+        },
+        "requirements": [
+          "APScheduler>=3.8,<4",
+          "SQLAlchemy>=2",
+          "mcdreforged>=2.12.0",
+          "pathspec",
+          "psutil",
+          "pytz",
+          "xxhash>=3",
+          "zstandard"
+        ],
+        "description": {
+          "en_us": "A powerful backup plugin for MCDR, an advanced backup solution for your Minecraft world",
+          "zh_cn": "一个强大的MCDR备份插件，一套先进的Minecraft存档备份解决方案"
+        }
+      },
+      "size": 151148,
+      "hash_md5": "3f82c14665a25d7af4636ef119726652",
+      "hash_sha256": "390181387bdc637faec6f13003a706d351ebfefd131e862d8c706245e4b5081a"
+    }
+  },
+  "repos_info": {
+    "etag": "\"0d24aa930aac27552dc0ccf93836b35dae6bc53b7c2b6fcd0de98558712407c9\"",
+    "data": "H4sIALhtuGYC/+2YbW/bNhDHv4rgt0siP6WJDQzdQ7qgWNKkWYoNHgaDkmiJMUVyJGXXEfzdd6REWfKWNA5fDcibNqb4/+l0PB55V/ZI0psGZ8Px2dlg0p8cBT3GEzy3o727+TK9uPn18Xp597lnHqEcm/FbSXL8E4qXhTDDi4LSuXt2//G3L4xwFu5NEpKskDZTFogqDCN8zbCE32WP8pSwttgIrAnj0/Fw3D/fs+v64sPmZjnZzIa/FOgPkSWXdBU9fB58uvjYv75IT40cwduQnBeSGkWmtVDTMKxG1UlKdFZEhcIy5kxjpk9inodF6N73fvX92FBSWXOqF5uhfaIgNa1CAFKF7e/IdE73zWgJ2lMXnFK+BsD8kJeEjWzHICx9DQNkZch1hsFx8HxrXUCUPtAgKyntf+A4S1HgRImTwzi1CEwyobItQ4kFr3BFpGJJhIZpBxrXkRoWlyli5BG9ggVSizB2HSi1EqPFKwi/A8WVpgztpoo328qGGJMVuPg1wD2x4emNsBv6puUe63qi8Rwlud2xdi9vXx7l+1khwc1aGOWPgTCBDAkliOycQNACckOw4DK4/vni7ihALEDJCrEYJ26O4rQwBDtrwwuYShiOJVroYM0lTap9IZet5PO8d+ziPGm0QX3Lv08TQis3nCXeeGCMujT/ui0WwxZGEZdIc+nB7WDKzk/7Go1R7oG3cpsXOffxopXbc0KpAr8s6J/BWYpqNhYr8qjOf77k3Y5CSpGUYewBaxBl2CToSMJuyHyojlDWf1XrjFKfZUZVZowojzwwMCu0iDJUGarPIz33s81ADaHLlHjhyTSEHVNLr5W2Rkq70o4Ix6GGVfeAOkJYOiZFLC1Q6gNtEO6cT9Ejln5W1owqrTEtSVT4ZrUdpXWBiPwM3UH2LyXeUOHOW5ieE+316RbQjXZvqonPf5HNgF+2dIROCq5SfP3IO8f/5yvqMsAzwgwhLL8TSGfOHwJJ7OUOAwjLCME96+TkpMwwqo77HEuvbVvp7bkk4wwuf69HlY4AV5scaXtRX1gjE7i5U44SDzsbRBMJ3sd8Z+UFVK8eRCvvAHNCsdKceS1Ow+igGddkQeIXlSrP0DuY8r0icJs+QpQeQaxpEhOIX6gE6/MhwtTrcDB6+AiU47pMoRh5HWKOUIb1xTfBgvKNZ+JpQezOlRhpqIeQNrhhfzg6HgyOh+f3g8m0P5qO3s1sL0Ak3Vnj4/75cX9y3z+b9ofT4WhWRZjKnp40nsxcUq6Nhz+/XT2Zz7KHjspauh92qulzqphCbB1YrzVvXLFXVHoZz7GAW0JbpokqzFy3RIR3lqSqNh+NZDg6O+/eLmJeMG1bVzC+Rhrur/uj7mJiW1YbndX9GKTmVRqAcS0LXI8JyR9wrPdGd9mnM7wmS9KqJq3eXoG6YqLiAm7sptGwm1yVj87SU5sxpOSuV8UgoeySctISAg5FtDPEBWb11zRE++kkxkxh212DEtF4gKaCHo9O+u1G3uWnL8EVVlBJBJeYYYlocFtEIA6uKkCwqhVKJF/rJtjV5e2VAz2/3WorVNh5d7uPF7+7v6QPs99PH2f3HzY900lAphFlTpIl5KCdP4maa5wL2u0hrnFUX2XmpjDiiwXc4/8uiOx4SXNBYrMEf/4Fv1ZEkYhQoq1bhP3epqyvV6Tl19qjLsRccCV4gQqq51XFZEg5UhpLu+GxzEmz7mWv0y0x640I06gzZHJE22JJqsDdPae0dsbWFuG5mFebWPMlZq45CeGmeW5iGWzQxFpfbveaXG8917ee61vP9f/fc2VYryFndY6Sdl3rxgfbfwAvzouH5xkAAA=="
+  }
+}

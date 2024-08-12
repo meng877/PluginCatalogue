@@ -1,0 +1,98 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"a0facc9aeb14ede4f8b21451fe299912cc9312370d2262bd943549ade6c01c69\"",
+      "data": "H4sIAN2UsmYC/+1ZDW/bNhD9K5yDAi1WW9SnP4CiaOO0C7Aka5t0Q9NCpiVaViuLmkg5dYz89x0p2bHdyIljuxgKIQgEUXfvjkfyHR98Oa1laVTroNpQiIR3NI0kYSMIxTDrNzw20lKaMK4dj0lc199oJ2FMvZQMxEea8pDFr/46BouIEk651rRty8G2U3uOaoRzKri7c2wtB5YhsiRixF8NkY/y3YSZvozJiD6PSJ9GNzLmUIyi1YgLkR4UQ5BAG+sN+JOIoQ9Ys7CycJkYshTGprWIBWEsIxWwc3O72WzbbbsJ7zHzqasGayfdd87Hf04j7+uFeXr9TT87vzDVUoyJIOkPS6FGZ3XKOE09FgsaCzWRTJvFeDl+YUmUIC1w8mBqAdYuroScV/3htZOWAxZF7Arc3Q1CaHOvW4gwDh4BAV5TjYkhhaLBZ7XwQcjFZukoj6l6QM0UCIf6pdTfCKbwgYSuYshlqnZzjpb1uZeGiYANtllqS54SiqUBicNrsjkUeCoEdcY28lQe0pWOYddt5pu7TLUkDcfEm9zkGXg0HEN1H4G34ivhxCSh0v8CDFW1Q0Fd4o/UiRyQiNOb5eP3/sj9dtU9e9s+El+5dRT8aR4rHBK4kkSkye2ph0UNqHAhk1EoQj6UX0eEizzWzP4OGkG3GL78MksG3pOUFhyzMOillAiYGJGWNQMbRh236kbzXLc7dquDrU8SKsn6EWRRZtfuGLldQb4ddLnDtpGDak0Hm6ZpOLekWAyslPnVUpnDQ5zdU7J6XrLGyPNVdRWbzzlMtQu6Qrj5ROrEUwfiss/El3lalt5qt4yWsUq+J867URufdo+ss/NgctY9fvFY8g1jTbdNp7Ul9S5P4on9GqbxxO4+gIpJkqy6b07LJeG3oen1kNvRdhn2ljReBrtLWi+NsT3Nl0FvTvtlSI9pA2VYu2oL5bmWtonXTJR3ieJwuzNjOF9R6Kll0JgnqKhzATw9KjaXUEYFM/k57LUcM3XDlsQPe0ZdfT2WxZKvDd24j+rbHUv/lBOev9bKUFb9lF1BKdx5qC3vvDOc4uKr3UfTN1/yJtknUbS1iChwFi7d12GyE+QCZwG5z/yJhDw4QG/C75R/Tj/H8r+uXn0E9IR8mtDYp7EXUo5YjHpyynQAZ4r6PURiH/US6A60V4PNs8NG65h2q2218T702Qx7z/psJcx+9Rme9/xZ2EqfVfqs0me/gj7rTr59n9ypz/AO9BneSp9ZdWyfY7tj4I6hr9Fnczu7o9t712eObjcN22zekmIxsE6fdf+1/rYfpM/wD/oszqKoVKFVlFtRbkW5/0fK3Z3Ysc27xI6ut+/jTeBDo1TsLFpZP0HsYO0+ztuf2MF7Ezt4RewcDkkc3ModVEeGcYVN8lw97eLpFM8mQVdhFKE+RTFLRySCJQdtxBBAtxoG4jFJ+JAJXmB9yJKEpYKjk8Pu+0IpocuebNGwcGNYuzAeSCC5y3pfns7muCCsGrBhfCAwn3m8ETLteugenmoRbA8utCTKoK+4Ph1rXiT7Hdc+KNxj2MvpgHi0Ian6IJC7V32oLwR8hqCW6KnMDRkN/fdnMus/gHfBDk1YhjwSIy7khOGMgQQMOcojQhXEEM0c6zvXe5blGO32fvRejr13vbcUZp96Dy/pvTxspfeqy0d1+fg19N5r3L9D7+Ed6D28vd4zznWno+sd21iv93K7dgf/DL1nOnrLthf0Xj6wXu8dOe4D9B6u9F5FuRXlVnpvQe9hC9+l9xznPtoEOlwr9+ZW+5d7uFzu4X3LPbw3uYeX5R7sB9QbzVzcce7jqgjQRH/48vRZT2o7+KZ+/ipGERuo13lslCur36BA/wFylWvIligAAA==",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAOyo8WUC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "76033326": {
+      "meta": {
+        "schema_version": 4,
+        "id": "minecraft_version_api",
+        "name": "Minecraft Version API",
+        "version": "1.1.1",
+        "link": "https://github.com/Ivan-1F/MinecraftVersionAPI",
+        "authors": [
+          "Ivan1F"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [
+          "parse"
+        ],
+        "description": {
+          "en_us": "A api plugin to get the Minecraft server version",
+          "zh_cn": "一个用于获取 Minecraft 服务端版本的 API 插件"
+        }
+      },
+      "size": 3125,
+      "hash_md5": "5feff863b1d8cf9025fb1bc790a8c5ad",
+      "hash_sha256": "ca1e4db66e460788b453dbfe8cb83516b175be8c1feca233c3434fe7702063d0"
+    },
+    "61572537": {
+      "meta": {
+        "schema_version": 4,
+        "id": "minecraft_version_api",
+        "name": "Minecraft Version API",
+        "version": "1.1.0",
+        "link": "https://github.com/Ivan-1F/MinecraftVersionAPI",
+        "authors": [
+          "Ivan1F"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [
+          "mcdreforged~=2.3.2",
+          "parse~=1.19.0"
+        ],
+        "description": {
+          "en_us": "A api plugin to get the Minecraft server version",
+          "zh_cn": "一个用于获取 Minecraft 服务端版本的 API 插件"
+        }
+      },
+      "size": 3153,
+      "hash_md5": "cf999f45df70b3856ec562af848f4dff",
+      "hash_sha256": "6d0d1e5e9a79791abe1e39eeec4f041ebd2092bcf1a7e1c550f8bb733e7e49c7"
+    },
+    "61361855": {
+      "meta": {
+        "schema_version": 4,
+        "id": "minecraft_version_api",
+        "name": "Minecraft Version API",
+        "version": "1.0.0",
+        "link": "https://github.com/Ivan-1F/MinecraftVersionAPI",
+        "authors": [
+          "Ivan1F"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [
+          "mcdreforged~=2.3.2",
+          "parse~=1.19.0"
+        ],
+        "description": {
+          "en_us": "A api plugin to get the Minecraft server version",
+          "zh_cn": "一个用于获取 Minecraft 服务端版本的 API 插件"
+        }
+      },
+      "size": 3040,
+      "hash_md5": "69d0cff1d207f2217e68897a94a4c953",
+      "hash_sha256": "207b2965f35f838fb49ec94e859214413c8db82750547e753c4a48e088fee5b2"
+    }
+  },
+  "repos_info": {
+    "etag": "\"7b419e38813f81bbab6202bfca17d0555f9d691718c354662f43e999c83483ad\"",
+    "data": "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"
+  }
+}

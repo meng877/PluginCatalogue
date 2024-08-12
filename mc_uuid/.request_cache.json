@@ -1,0 +1,43 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"737f58b9a15d0dc3659ec874271b7c05cac39edd841b6accf288088c9ace0164\"",
+      "data": "H4sIABPLuGYC/+2WXW/aMBiF/0qV64LzQRggTdVWuq2TQssEbKOtIsdxgysnjmKHKkT899lOAoxpbNBdTb2COO95XufYOfFdaeQZNQZnxkKIlA8AgClpR0Qs8qCNWAwynDIOPuXwiXjTL9y7BN7ldHo9lDcohhxz0HnTt/pdp2+cnxmQcyy4/6+QoOIpcp5SBsN9cjXKX0QvLxIY43MKA0zXqtVCxHS/0U6DQ2gBI2C1zbapOCSUhKaZMicXC5bJsdKgLCKJ4jcw23F2JGan23NseZ2wEPt60PCG4+7s24iip7Ej/9s3Q6/Qli+hgNkvluvRxpic4wyxROBE6EfIQdPjYvm2oyhRVnOqZtrxg4uokFub6+n/pXN19SOjlD1LjH9kK7BRbjEkiU7ESGUJmFhgaaIs0VsgIlwcPy2tKvWP9FGDuPQ0w+HRqFonJ/acyDmVeltXxDzgKCOpICw5foo/qRWOZRFMyAqehpNqTdEv3dFqrVJyvJQ783h9JStBmpElRMW6mgnCZCkdP5G5p1dIUaRYMaayWK8AEdiHYazf4EdIOV7vv6qoO41nfP71w2o+GTs3kyt39OS5GgYjX+WNqtskhVzsCAtfzigmgvCFuhlDLqp+Tfn9vRYANRZm8FE07eV1muE6hHYGUYahkI8CVaVhm7bVMnstqzux3IFrDlx7rlBpHlDZ83d1zsB25ttslxV3L/9mVCzQsd1u3+zZ2+irB/b9vCpu6GcafJwtkD17j5wRDYfjYjT57nrDqNg1ySMJRsoc1fDd7XVrqU1rxyjUZuqYl4VJTunms4JfU/k1lV9T+T9M5fr98ptqmKaUIO0rYEhg0eJCpmRc7wqhi+pQCCvsSo1Zvb6lYlcuvD6HIpYnKi3tjuv8KWmdgVklbZ6GB6uqnA0y9iyfyd/0Ou0o2sir8yg4mIvrh+ojFEBKTz281/Lt8XdF0pfwavmWF7Cw0Cm4fvgBuAcJ3LYMAAA=",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAO2o8WUC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "42569082": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mc_uuid",
+        "name": "Minecraft UUID API",
+        "version": "1.0.0",
+        "link": "https://github.com/HuajiMUR233/MCUUID",
+        "authors": [
+          "Huaji_MUR233"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "requests>=2.25.1"
+        ],
+        "description": {
+          "en_us": "Minecraft UUID API"
+        }
+      },
+      "size": 1891,
+      "hash_md5": "d73dce27b5aaca78ec680ab5e12efeb3",
+      "hash_sha256": "c7b775bf266f9aa4153cb5312a757e15fa6b1668a3e8a4d0111fbf278cd69ec4"
+    }
+  },
+  "repos_info": {
+    "etag": "\"be4436cf4b28b8ada8d8baeea16b7dfd7158543f6170aad1978d5a77b0a56473\"",
+    "data": "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"
+  }
+}

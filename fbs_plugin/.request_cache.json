@@ -1,0 +1,121 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"c1d1239c3d9d902d09a4613bcd30c2e50853785d1c07babc02e357195c69ca1e\"",
+      "data": "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",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAOyo8WUC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "127411538": {
+      "meta": {
+        "schema_version": 4,
+        "id": "fbs_plugin",
+        "name": "FastBotSpawn",
+        "version": "1.1.1",
+        "link": "https://github.com/Walkersifolia/FastBotSpawn",
+        "authors": [
+          "WalkerTian"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "A plugin with multiple functions"
+        }
+      },
+      "size": 2576,
+      "hash_md5": "78c3a876ec9bb42507c4eacaf6981efe",
+      "hash_sha256": "6b53deda8de0f4b210fb0f8acdc724ed56c68deeffea24d5462036362df77bc9"
+    },
+    "117030689": {
+      "meta": {
+        "schema_version": 4,
+        "id": "fbs_plugin",
+        "name": "FastBotSpawn",
+        "version": "1.1.0",
+        "link": "https://github.com/Walkersifolia/FastBotSpawn",
+        "authors": [
+          "WalkerTian"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "A plugin with multiple functions"
+        }
+      },
+      "size": 2543,
+      "hash_md5": "1c4fdd0d93b3aa9701dfe5a18bd6eb4c",
+      "hash_sha256": "c284b086fdba21af1903f6532b6214f365d260aafbe2330781e940ee453915bc"
+    },
+    "116946690": {
+      "meta": {
+        "schema_version": 4,
+        "id": "my_plugin",
+        "name": "FastBotSpawn",
+        "version": "1.0.0",
+        "link": "https://github.com/Walkersifolia/FastBotSpawn",
+        "authors": [
+          "WalkerTian"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "A plugin with multiple functions"
+        }
+      },
+      "size": 2182,
+      "hash_md5": "6e2733cbac1ea976c3f4ac76983288cb",
+      "hash_sha256": "71606a40e623c58906be94c29ed10cb25d6c6983e8106b04f83c0adbda37b6fd"
+    },
+    "164398052": {
+      "meta": {
+        "schema_version": 4,
+        "id": "fbs_plugin",
+        "name": "FastBotSpawn",
+        "version": "1.1.2",
+        "link": "https://github.com/Walkersifolia/FastBotSpawn",
+        "authors": [
+          "WalkerTian"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "A plugin with multiple functions"
+        }
+      },
+      "size": 2582,
+      "hash_md5": "493424948f9a41203a1b6e7fa5be8f40",
+      "hash_sha256": "f6b7f8c0bef9b9890787da7245fc19a325931392b7d273e66ae8c59626973146"
+    },
+    "175923075": {
+      "meta": {
+        "schema_version": 4,
+        "id": "fbs_plugin",
+        "name": "FastBotSpawn",
+        "version": "1.1.3",
+        "link": "https://github.com/Walkersifolia/FastBotSpawn",
+        "authors": [
+          "WalkerTian"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "A plugin with multiple functions"
+        }
+      },
+      "size": 2668,
+      "hash_md5": "7c27a2da133b6fff2496dc6740ef7eda",
+      "hash_sha256": "8569589608055977f9083dc09cad2ceaaded87b9010069508484cdf3de8bebd2"
+    }
+  },
+  "repos_info": {
+    "etag": "\"2f06bca92ef109f358a802400bd89304385ad6571e2a0a8e20f80b869eeb14aa\"",
+    "data": "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"
+  }
+}

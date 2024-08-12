@@ -1,0 +1,61 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"78fbf5ab605f06964f9db680fc513fd6087b469c6728788a15554bb259489b92\"",
+      "data": "H4sIAEDQuGYC/+1YbW/bNhD+K6zzYRsQWy+WYkfAUBR5QZfCyZZlRZF2MGiRltlRokBSdmwj/31HSrJVN8nqNMawwUCMyNTd8xzvyCMff1y2CslbEWpNtM5V5Dg4Z52E6Ukx6sQidSTNhXI+FwSnWDrXNGEiO2ecDnCGEyrhPadYUeV4R154HPqe2zpELawU1Wr40tBOiWsYipwLTDYZylH1IizL1xlO6SHHI8rvDeVEp3yTsEH0DRQaJ87U63gdmyRGAGnFarJW6ImQMLhscZGwzBBVqCv7fq/nh13Ph++ZIHRoB1uD09+O3n+45PHnpHu5+MUbLM7mtg5TrLH8qg52tM5SoaiMRaZppu08CqfmeD39OTAoiaxwSjKb/icrayBXOf/21BnLseBczMB9uAWFs/JaQ7AseQYEeC0doScUkgavbd0TpvR24ViPpf0HObMgCvInKdkKpvKBgGYZxLK0a7lEK0YqlizXsNK2C+0LTwMlZIIztsDbQ4GnRbA7bCtP62Fc6RRW3Xa+pcvSySWb4nh+X0YQUzaF7D4Db8PXwOl5To3/H2Bos800HWKS2h05xlzR+y+33/XZ8K/Z6dVFX2Qf+sGFGB2/szg4GZoeYkzW2x6KmlA9hEhSppmamLcpVrrkqu3NM5F4rGtK+J5LWrWSxmAsKdYQPjaWLd/1g7Z71Pa9G7cbhUHku7cGKi9GHLgetAsitx+Fvdt14waLjy92MJSQjtcL3dDvh43WV49sJPNNM5nvRnfJvJmYr5jaZWo7aUxsBm3DBsus4Hx1UNB9W9231X1b/Q+01WrPDGtrnOecxTaPjog11W2loeWlVfW1Nao2OSlhF2Ys6LqmsRAosr0pxqLITOvzgiebJjTDXuQFt+UdkzxpFVqrkRQzmNFwxfRdV8QapbonOk+3u/s/ywNlhDn/ztt2hdK4ny5Y/gK4FUoDdyTI3AAeHBygmwlFpQ8yTqjyQj9enw9+QkyhActobM5BlPMCmjciVLEkowSNhUSDk9NrCg8JfIcaTMHTLijoEBJrAc34k/yUAc8bQiLzaD5t9GsJVa4ZlFKlgNSatmAJvpwk8oPQC456vR1Iohp6t5Jog2V3kshtSqKadS+J9mf3/uz+P0iit3h47j0gidxtJNHa/nnCqNv2XPi78buROcCDx4RRw85z67vADoURXFRcv9frrhtgPfKUMHo7PTp+/4/CyN0Lo31z3TfXvTBqCCM/8B4SRuHjPdP+mOQeR4H7sC7asPJ2rIvcx3SRu1td5O5IF7n/gi5CtRoybAMMAGMofSGpauikKoKSPIXFFyGoBuNzpPAUzliwBjB4IFAmTRHOCILTVMML46gQwM5FIRvRzoTkpFPCnwsO5w9qdoSo4lQIS1q/gUkAkKI5huApTNC4KTvRK5iahTxEl9S0URvDGXwIg4CVgarYTkQ2ZkkhK56TAmJPARxBSpEWSBVMl9GWGftBoYxSotAMiorGnN6xEVTi4verSxQ3sSr8M6zmbS3asN2RuclAICpCZ3c0LvR6pESDSNGrV3KcIri6jNmdjVqxNAcCNc80vuvAGv4bA3LyPZ0bAAA=",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAGz9dGYC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "175052850": {
+      "meta": {
+        "schema_version": 4,
+        "id": "region_file_manager",
+        "name": "RegionFileManager",
+        "version": "1.1.0",
+        "link": "https://github.com/judamar/RegionFileManager",
+        "authors": [
+          "judamar"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "Plugin to magement of region files in the world."
+        }
+      },
+      "size": 4300,
+      "hash_md5": "30b84a2c05f3dbf02c9c09640694980a",
+      "hash_sha256": "18a9cf0df93ca36e2756740452f267f38d4d2d904fb2f0a402a6313762ac2828"
+    },
+    "130002773": {
+      "meta": {
+        "schema_version": 4,
+        "id": "region_manager",
+        "name": "RegionFileManager",
+        "version": "1.0.0",
+        "link": "https://github.com/judamar/RegionFileManager",
+        "authors": [
+          "judamar"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "Plugin to magement of region files in the world."
+        }
+      },
+      "size": 4241,
+      "hash_md5": "8340eae0bcbf89235d9dc689d73fcf29",
+      "hash_sha256": "9328c957a2ffeae0ffcec2dabea7a4c6ba30f2711cfbdf5030e9cc0077584076"
+    }
+  },
+  "repos_info": {
+    "etag": "\"2a6eb86bf07d8fc1f671fa725bd6f80fe9e781c62f062728bfd86dd1e3eef016\"",
+    "data": "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"
+  }
+}

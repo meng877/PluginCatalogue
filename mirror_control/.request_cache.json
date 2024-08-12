@@ -1,0 +1,138 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"9fd5399761fb5ae8c1b5ce91bd63df7b7c8111acdd22e8b1e9f2158083594b30\"",
+      "data": "H4sIANyBuWYC/+2a/W+bOBjH/5UqP1+CbQwYpN00td1tOrXrpu5etpwiB0zCRiDipb026v9+jw1JSJaXpQk/XOVpSol5/H3MA3ztj5yvs06ZxR3vrDMuimnuGQafRr1RVIzLYc9PJ0Ympmlu+GOe8Rz+GVdRlqVZ9zxNiiyN4XQseC5yA9sOswkltPPLWQdCRZEPTqxsVLIyQTmNUx6sJ6ha81Mkmb1O+ET8EvOhiJ9kxnExidfzNfLsz1DwkXGHe6inKhQFILRIKktWFuM0g8ZZJ05HUSLzLEQXPZhFKUauC9+TNBAD1di5uvho//HXdex/G+Hri4//Xl18t9RtuOMFz364Dap1XqUyF5kPYxVJoS6kNOY5Xt+9UkMdZbVOlUyVf+eNlZKNmh9SPRkbpnGc3oPE4KA0xqLfUiRKRs8SgX4zIy3GAooHAeoBGEV5ceiQVJ+Z+gPVUzI5VDITwYFCdS8Y1H0C45mp57rSK4e5n0XTIkqTQ4e30leKpdmIJ9Ejf44Y9FUa6o07sK/qIzuLO3gOD+1ddZoZ0yy64/7DUzUKX0R3UOdnKa71loLFw1RIhc8QquoeFWLAg4l6U0Me5+Jp9aX8dDn4fn/x4f23m+Sc0d/f/Hn+t9Lho4G0FhmytAO4vSNRDGAsk6iI8rE8O+F5UeWax1fWclZby9mid5DxsJgPA75PM1HbTqPRzwQv4JK4jOwQRGgXOV0T3WLqYdtDzhcpNS2HMeTfFsc8TL8sHR4ivp5qAqkUDcyIYzNwxqVLzlvW6vtmpb7W9fvkx1rVWbpVpXsTP1AFVbYOUUkZx4vZRGj31e6r3fd/7L71mzSYR/PpNI58VU8j9QtRdPMCXHBSPwmFCqpf/qCSfZRtlFjyHQ/gdqtlpp+WiXRDB+3zUcez8JdqgRrsjCIqapil93BFg0WmYxaYc5F6lWlsd8Cnf6opZ8jj+LhFei3SWNg+RtPjZWuRhuwwDR6kXr+07ZDCp2W6/ZIKZssrgqPQDfolCyy7XzqEMohwiN/P+km/IyNECG+ICPqg0e/8+gr3sNlD/U4HHptTTWDMYpQx0z05AM2F2+SftRwt4o/ZmE6rnJp+9Pyr59+XTD9v34VX7zbSj3kU/ZjPpx/SxfDfvMXYQ9ijdBv9NOMcj9rt0g9jiNgOI0vLqxt2sc/bmwdb7GEfU7OP9l7tvZp99rMPZZvYh7jWPht1PNPZDD9rUW7b8GMa2y2wJfgx24EfcxV+aOiE/dIyBQfAIb4rjwM7EyO4zRKKmCOhKLRVO5PHJq8wqRkvIx0q24k6iyU0WdRfU3BhaS5TCiG/oGAuRIU6DjFfE3XIEI4dE8EnZf782CEhhk+bQUrXkmouc9lp0YvAHMlYC+hVCbeLXis5WkSvxrKizqnRS0//evp/0ej19tb6uBG9yFHoRY5EL+TcItcjlkfMnehVx9mexVpGL5irmIOspeXVDTvR6/piMt6DXkSjl/Ze7b0avX5i22kjeqmd750uansm2UFeyyjaNnkRY7sDtkRepB3yIpvIy7EIOx/z4rebW6CbYQjsw4ZC7jxxhFbxiQphSTLygZKYIqDqrNyd+nT55uLqEtrDAIiJMYleFVs5YShbhgE+LR9hylynja2pSrhdPlrJ0SIf4caUW+XUfKTnaD1Hv2g+ukSfHzfyET6Kj/CxfGTfYtOzLM/Eu/moimOeRdvmI+wy6jY8sm7YyUdXaT7cw0dY85H2Xu29mo9+YmsKbeQjc5+LMo+iXXy0iGr9Z3nY2O6ALfERboeP8DofbdgmQvLTlZtCQUgAbhyJRK6FK2wK1c/zSou5sifhaN6TEYVOwiGy3QXuYigMTgxEsMBHZhtApIRbBqJmjhaBCDWBSOXUQKQnZT0pv2wgyrqbgQgdBUToeCCqNoww2gdEMm7xY5Q2gQgIyHWaQKQadgNR9CHYA0RIA5H2Xu29Goj2AZHpbv6tnmXtc1FwR3M3ENVRrW8YIWO7A7YERKgdIEJNILqZz05wEf8BDbpcLGRBAAA=",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAMrK+WUC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "88026782": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mirror_control",
+        "name": "Mirror Control",
+        "version": "1.0.3",
+        "link": "https://github.com/charassss/Mirror-Control",
+        "authors": [
+          "Chara_SS"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "mcdreforged~=2.6.0"
+        ],
+        "description": {
+          "en_us": "A plugin to control mirror server",
+          "zh_cn": "一个控制镜像服务器的插件"
+        }
+      },
+      "size": 4248,
+      "hash_md5": "eb877f26282d01efc99d11d2cd0a6b2f",
+      "hash_sha256": "51cca5d61606fa0803ae4185521f01991d3926880fa9a1e9ae83e11dcf8fe449"
+    },
+    "87308705": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mirror_control",
+        "name": "Mirror Control",
+        "version": "1.0.2",
+        "link": "https://github.com/charassss/Mirror-Control",
+        "authors": [
+          "Chara_SS"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "mcdreforged~=2.6.0"
+        ],
+        "description": {
+          "en_us": "A plugin to control mirror server",
+          "zh_cn": "一个控制镜像服务器的插件"
+        }
+      },
+      "size": 4258,
+      "hash_md5": "837cea18c6bf49de10d1063b9611531d",
+      "hash_sha256": "ccb59656c9cae20b50fea6a5e88633c814f62dd3f894c50225f6a4ab8c80c7d2"
+    },
+    "87198491": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mirror_control",
+        "name": "Mirror Control",
+        "version": "1.0.1",
+        "link": "https://github.com/charassss/Mirror-Control",
+        "authors": [
+          "Chara_SS"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "mcdreforged~=2.6.0"
+        ],
+        "description": {
+          "en_us": "A plugin to control mirror server",
+          "zh_cn": "一个控制镜像服务器的插件"
+        }
+      },
+      "size": 4240,
+      "hash_md5": "313623c08299969aed9af57fc288201b",
+      "hash_sha256": "30823bf6a45b42527002c92fe519a958e6c98d07304955345ac1398caaccea9a"
+    },
+    "87171997": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mirror_control",
+        "name": "Mirror Control",
+        "version": "1.0.0",
+        "link": "https://github.com/charassss/Mirror-Control",
+        "authors": [
+          "Chara_SS"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "mcdreforged~=2.6.0"
+        ],
+        "description": {
+          "en_us": "A plugin to control mirror server",
+          "zh_cn": "一个控制镜像服务器的插件"
+        }
+      },
+      "size": 3948,
+      "hash_md5": "dba35e74e3dd96cb3e91a07af40f9dd1",
+      "hash_sha256": "1cae1cbca550f27c0e8145854adafb33a3de06b9800cf32c53826b09742da6b6"
+    },
+    "182768167": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mirror_control",
+        "name": "Mirror Control",
+        "version": "1.0.4",
+        "link": "https://github.com/charassss/Mirror-Control",
+        "authors": [
+          "Chara_SS"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.13.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.13.0"
+        ],
+        "description": {
+          "en_us": "A plugin to control mirror server",
+          "zh_cn": "一个控制镜像服务器的插件"
+        }
+      },
+      "size": 4259,
+      "hash_md5": "d5e64ecc65e87ca7032de861c67d1879",
+      "hash_sha256": "a4110df7fe81dd140aa4640c1f5cd4bf13b34aa8066e59db387930b7367d068c"
+    }
+  },
+  "repos_info": {
+    "etag": "\"1743b89faf775d3d3575db9849ea266941408b5d608b07d22aaedabf16ae2b25\"",
+    "data": "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"
+  }
+}
